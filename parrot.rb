@@ -2,5 +2,7 @@
 # returns the phrase
 
 def parrot(speak)
-  puts "#{speak}"
+  thisword = speak 
+  puts "#{thisword}"
+  
 end 
