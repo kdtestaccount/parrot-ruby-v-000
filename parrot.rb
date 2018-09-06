@@ -4,5 +4,5 @@
 def parrot(speak)
   thisword = speak 
   puts "#{thisword}"
-  
+  thisword
 end 
